@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `python manage.py runserver`
 Runs the app in the development mode.\
 Open [http://localhost:8000/admin/](http://localhost:8000/admin/) to view admin panel in your browser.\
-Username: dionm.\
+Username: dionm\
 Password: superdion
 
 The page will reload when you make changes.\
