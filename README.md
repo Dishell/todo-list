@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `python manage.py runserver`
 Runs the app in the development mode.\
-Open [http://localhost:8000/api/](http://localhost:8000/api/) to view list of Apis in your browser.\
+Open [http://localhost:8000/api/](http://localhost:8000/api/) to view list of Apis in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
